@@ -12,11 +12,6 @@ torchvision==0.19.0
 
 ## How to run
 
-### go into starter_code directory
-```python
-cd starter_code
-```
-
 ### run all images with each metrics using Green as reference
 ```python
 python main.py -i all
