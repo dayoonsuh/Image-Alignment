@@ -1,5 +1,7 @@
 # Image Alignment
-Given a grayscale image of three channels (R, G, B), the goal is to crop this image into 3 channel images and align them to create a color image. 
+Given a grayscale image consisting of three channel images (R, G, B), the goal is to extract each channel image and align these images to form a single, properly colorized image.
+![image](https://github.com/user-attachments/assets/e75c7885-7922-4b59-b915-2b4c84036902)
+
 ## Requirements
 ```python
 matplotlib==3.8.4
