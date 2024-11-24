@@ -1,4 +1,4 @@
-# CS59300CVD Assignment 1
+# Image Alignment
 
 ## Requirements
 ```python
