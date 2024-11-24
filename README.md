@@ -27,6 +27,5 @@ ex) python main.py -i 1 -m ncc -c red
 - color: {green, red, blue}
 
 ### change padding method
-- replace the paddings argument in helpers.py line 5.
-- paddings="circular" or paddings="zero"
+- paddings: {"circular", "zero"}
 
