@@ -1,7 +1,7 @@
 """Implements alignment algorithm."""
 
 import argparse
-from alignment_model import AlignmentModel
+from alignment_model_STN import AlignmentModel
 import time
 import os
 
