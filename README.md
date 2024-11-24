@@ -30,7 +30,7 @@ ex) python main.py -i 1 -m ncc -c red
 ### change padding method
 - paddings: {circular, zero}
 
-# 2 Image Alignment with Spatial Transformer Network [paper](https://arxiv.org/pdf/1506.02025)
+# 2 Image Alignment with [Spatial Transformer Network](https://arxiv.org/pdf/1506.02025)
 ## How to run
 
 ### run all images with each metrics
