@@ -1,6 +1,7 @@
 # Image Alignment
 Given a grayscale image consisting of three channel images (R, G, B), the goal is to extract each channel image and align these images to form a single, properly colorized image.
-![image](https://github.com/user-attachments/assets/41637e7d-a84c-4ed2-88be-a72fc4db2970)
+![image](https://github.com/user-attachments/assets/b9f5d7de-a2db-4c3f-803f-5269d84a423f)
+
 
 
 ## Requirements
